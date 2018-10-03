@@ -95,6 +95,8 @@ bot.onText(/^\/[a-zA-Z]+$/, msg => {
       return bot.sendMessage(id, helper.contacts)
       case '/bro':
       return bot.sendMessage(id, helper.bro)
+         case '/bogdan':
+      return bot.sendMessage(id, helper.bogdan)
     case '/ads':
       MainController.sendCallback(msg, 'ads')
       break
