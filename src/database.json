@@ -1,0 +1,362 @@
+{
+  "flowers" : [
+    {
+      "uid": "1685",
+      "category": "packaging",
+      "title": "Букет для мамы",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1685.png",
+      "price": "2 240",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1685/buket-dlya-mamy",
+      "description": "Роза красная 50см - 7, Роза кустовая 50см - 7, Фисташка, Фетр, Лента"
+    },
+    {
+      "uid": "1542",
+      "category": "packaging",
+      "title": "Букет \"Вернисаж\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1542.png",
+      "price": "1 970",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1542/vernisazh",
+      "description": "Хризантема кустовая - 5, Альстромерии - 3, Статица, Фетр, Лента, Салал"
+    },
+    {
+      "uid": "1509",
+      "category": "packaging",
+      "title": "Букет \"Валенсия\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1509.png",
+      "price": "2 440",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1509/valensiya",
+      "description": "Хризантема кустовая - 3, хризантема кустовая грин лизард - 4, Роза розовая 50см - 7, Гвоздика, Рускус, Фетр, Лента"
+    },
+    {
+      "uid": "1344",
+      "category": "packaging",
+      "title": "Букет \"Стильный сюрприз\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1344.png",
+      "price": "2 090",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1344/stilnyi-syurpriz",
+      "description": "Лизиантус - 5, Хризантема кустовая сталион - 1, Гвоздика, Бумага крафт, Лента, Эвкалипт парвифолия"
+    },
+    {
+      "uid": "1340",
+      "category": "packaging",
+      "title": "Букет \"Лунная соната\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1340.png",
+      "price": "1 670",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1340/lunnaya-sonata",
+      "description": "Лизиантус - 4, Альстромерии - 3, Фисташка, Сетка (Абака), Лента"
+    },
+    {
+      "uid": "296",
+      "category": "packaging",
+      "title": "Букет \"Нежная мелодия\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-296.png",
+      "price": "3 370",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/296/nezhnaya-melodiya",
+      "description": "Роза кустовая 50см - 15, Гипсофила, Рускус, Фетр, Лента"
+    },
+    {
+      "uid": "1560",
+      "category": "packaging",
+      "title": "Букет \"Малахитовая шкатулка\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1560.png",
+      "price": "2 540",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1560/malakhitovaya-shkatulka",
+      "description": "Роза розовая 50см - 5, Хризантема одиночная - 5, Альстромерии - 4, Гвоздика, Лента, Фетр"
+    },
+    {
+      "uid": "1556",
+      "category": "packaging",
+      "title": "Букет \"Сердце океана\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1556.png",
+      "price": "2 840",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1556/serdtse-okeana",
+      "description": "Лилии - 3, Ирисы - 14, Рускус, Фетр, Лента"
+    },
+    {
+      "uid": "303",
+      "category": "packaging",
+      "title": "Букет \"Воздушный поцелуй\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-303.png",
+      "price": "1 800",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/303/vozdushnyi-potselui",
+      "description": "Герберы - 3, Роза красная 50см - 5, Статица, Фетр, Лента, Салал"
+    },
+    {
+      "uid": "1327",
+      "category": "packaging",
+      "title": "Букет \"Блеск\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1327.png",
+      "price": "2 030",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1327/blesk",
+      "description": "Герберы - 3, Альстромерии - 3, Хризантема кустовая сталион - 2, Статица, Рускус, Фисташка, Сизаль, Лента"
+    },
+    {
+      "uid": "1299",
+      "category": "packaging",
+      "title": "Букет \"С днем рождения\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1299.png",
+      "price": "3 370",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1299/s-dnem-rozhdeniya",
+      "description": "Роза красная 50см - 9, Шар гелиевый - 5, Фетр, Лента, Мишка 35см, Раффаэлло 150г"
+    },
+    {
+      "uid": "1143",
+      "category": "packaging",
+      "title": "Букет \"Карнавал\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1143.png",
+      "price": "2 350",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1143/karnaval",
+      "description": "Роза красная 50см - 7, Альстромерии - 4, Хризантема кустовая - 2, Гвоздика лунная  - 4, Аспидистра, Лента"
+    },
+    {
+      "uid": "1137",
+      "category": "packaging",
+      "title": "Букет \"Нежность\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1137.png",
+      "price": "от 2 610",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1137/nezhnost",
+      "description": "Роза кремовая 50см - 4, Роза кустовая 50см - 3, Роза белая 50см - 3, Лизиантус - 2, Ваксфловер, Эвкалипт парвифолия, Кружево"
+    },
+    {
+      "uid": "557",
+      "category": "packaging",
+      "title": "Букет \"Рассвет\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-557.png",
+      "price": "2 130",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/557/rassvet",
+      "description": "Роза белая 50см - 5, Альстромерии - 5, Ирисы - 7, Фетр, Лента"
+    },
+    {
+      "uid": "1338",
+      "category": "packaging",
+      "title": "Букет \"Праздничное настроение\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1338.png",
+      "price": "3 110",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1338/prazdnichnoe-nastroenie",
+      "description": "Лилии - 3, Роза розовая 50см - 7, Роза кустовая 50см - 3, Статица, Фисташка, Фетр, Лента"
+    },
+    {
+      "uid": "550",
+      "category": "packaging",
+      "title": "Тюльпаны",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-550.png",
+      "price": "1 390",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/550/tyulpany-15-sht",
+      "description": "Тюльпан - 11, Фетр, Лента"
+    },
+    {
+      "uid": "1555",
+      "category": "packaging",
+      "title": "Букет \"Дольче вита\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1555.png",
+      "price": "2 7503 030",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1555/dolche-vita",
+      "description": "Роза красная 50см - 3, Роза белая 50см - 3, Роза розовая 50см - 3, Альстромерии - 9, Сизаль, Лента"
+    },
+    {
+      "uid": "559",
+      "category": "packaging",
+      "title": "Букет \"Морской мотив\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-559.png",
+      "price": "1 570",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/559/morskoi-motiv",
+      "description": "Ирисы - 7, Лизиантус - 4, Фетр, Лента"
+    },
+    {
+      "uid": "342",
+      "category": "packaging",
+      "title": "Букет \"Фламенко\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-342.png",
+      "price": "2 300",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/342/flamenko",
+      "description": "Роза красная 50см - 5, Герберы - 5, Хризантема кустовая - 5, Фетр, Лента, Рускус"
+    },
+    {
+      "uid": "298",
+      "category": "packaging",
+      "title": "Букет \"Роскошный подарок\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-298.png",
+      "price": "4 4704 920",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/298/roskoshnyi-podarok",
+      "description": "Роза красная 50см - 7, Орхидея цимбидиум - 7, Рускус, Статица, Фетр, Лента, Колба-пробирка"
+    },
+    {
+      "uid": "1707",
+      "category": "packaging",
+      "title": "Букет \"Алые розы\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1707.png",
+      "price": "1 930",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1733/alye-rozy",
+      "description": "Роза красная 50см - 13, Гипсофила, Фисташка, Лента"
+    },
+    {
+      "uid": "1132",
+      "category": "packaging",
+      "title": "Букет \"Гармония\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1132.png",
+      "price": "2 470",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1132/garmoniya",
+      "description": "Роза кустовая 50см - 3, Хризантема кустовая - 2, Лизиантус - 2, Гиперикум - 2, Роза белая 50см - 3, Грин белл, Эвкалипт парвифолия, Кружево"
+    },
+    {
+      "uid": "1561",
+      "category": "packaging",
+      "title": "Букет \"Ягодный микс\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1561.png",
+      "price": "3 040",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1561/yagodnyi-miks",
+      "description": "Роза кустовая 50см - 9, Хризантема кустовая - 7, Рускус, Сетка (Абака), Лента"
+    },
+    {
+      "uid": "1551",
+      "category": "packaging",
+      "title": "Букет \"Фестиваль красок\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1551.png",
+      "price": "3 010",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1551/festival-krasok",
+      "description": "Роза розовая 50см - 3, Роза желтая 50см - 3, Роза кустовая 50см - 1, Альстромерии - 4, Хризантема кустовая - 3, Гвоздика кустовая, Лимониум, Фисташка, Рускус, Сизаль, Лента"
+    },
+    {
+      "uid": "414",
+      "category": "packaging",
+      "title": "Букет \"Очарование\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-414.png",
+      "price": "1 910",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/414/ocharovanie",
+      "description": "Лилии - 3, Роза розовая 50см - 5, Рускус, Лента"
+    },
+    {
+      "uid": "771",
+      "category": "packaging",
+      "title": "Букет \"Прекрасное мгновение\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-771_0.png",
+      "price": "1 590",
+      "reason": "jubilee",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/771/prekrasnoe-mgnovenie",
+      "description": "Герберы - 3, Хризантема кустовая - 2, Лизиантус - 2, Фисташка, Рускус, Сетка (Абака), Лента"
+    },
+    {
+      "uid": "842",
+      "category": "packaging",
+      "title": "Букет \"Любимой!\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-842.png",
+      "price": "2 400",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/842/lyubimoi",
+      "description": "Роза красная 50см - 19, Берграсс, Лента, Каркас"
+    },
+    {
+      "uid": "401",
+      "category": "packaging",
+      "title": "Букет \"Прекрасное начало\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-401.png",
+      "price": "1 5201 820",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/401/prekrasnoe-nachalo",
+      "description": "Роза кустовая 50см - 7, Гипсофила, Фетр, Лента"
+    },
+    {
+      "uid": "1510",
+      "category": "packaging",
+      "title": "Букет \"Малиновый щербет\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1510.png",
+      "price": "3 3404 010",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1510/malinovyi-shcherbet",
+      "description": "Роза кустовая 50см - 10, Роза розовая 50см - 11, Рускус, Фетр, Лента"
+    },
+    {
+      "uid": "311",
+      "category": "packaging",
+      "title": "Букет \"Элегия\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-311.png",
+      "price": "1 100",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/311/elegiya",
+      "description": "Лилии - 1, Аспидистра, Гипсофила, Берграсс, Фетр, Лента"
+    },
+    {
+      "uid": "1557",
+      "category": "packaging",
+      "title": "Букет \"Оранж\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1557.png",
+      "price": "2 880",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1557/oranzh",
+      "description": "Роза кустовая 50см - 5, Лизиантус - 8, Гиперикум - 3, Фисташка, Бумага крафт, Лента"
+    },
+    {
+      "uid": "536",
+      "category": "packaging",
+      "title": "Букет \"Весеннее солнце\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-536.png",
+      "price": "1 5701 810",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/880/vesennee-solntse",
+      "description": "Альстромерии - 9, Фетр, Лента"
+    },
+    {
+      "uid": "1326",
+      "category": "packaging",
+      "title": "Букет \"Бархатный сезон\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1326.png",
+      "price": "2 310",
+      "reason": "birthday",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1326/barkhatnyi-sezon",
+      "description": "Герберы - 3, Роза красная 50см - 5, Альстромерии - 3, Фисташка, Сетка (Абака), Лента, Хризантема филин Грин"
+    },
+    {
+      "uid": "413",
+      "category": "bots",
+      "title": "Букет \"Яркая улыбка\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-413.png",
+      "price": "1 340",
+      "reason": "wedding",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/413/yarkaya-ulybka",
+      "description": "Герберы - 7, Рускус, Лента"
+    },
+    {
+      "uid": "1507",
+      "category": "bots",
+      "title": "Букет \"Кенийская красавица\"",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1507.png",
+      "price": "2 570",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1507/keniiskaya-krasavitsa",
+      "description": "Роза кения - 25, Салал, Фетр, Лента"
+    },
+    {
+      "uid": "334",
+      "category": "ads",
+      "title": "Корзина лакомств",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-334.png",
+      "price": "2 720",
+      "link": "https://ekaterinburg.rus-buket.ru/podarki/334/korzina-lakomstv"
+    }
+  ]
+}
