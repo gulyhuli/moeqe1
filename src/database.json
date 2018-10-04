@@ -1,45 +1,25 @@
 {
   "flowers" : [
     {
-      "uid": "1",
-      "category": "ads",
-      "title": "Настройка рекламы, лиды.",
+      "uid": "1685",
+      "category": "content",
+      "title": "Букет для мамы",
       "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1685.png",
-      "price": "1",
+      "price": "2 240",
       "reason": "love",
       "link": "https://ekaterinburg.rus-buket.ru/buket/1685/buket-dlya-mamy",
       "description": "Роза красная 50см - 7, Роза кустовая 50см - 7, Фисташка, Фетр, Лента"
     },
     {
-      "uid": "2",
-      "category": "packaging",
-      "title": "Упаковка",
+      "uid": "1542",
+      "category": "ads",
+      "title": "Букет \"Вернисаж\"",
       "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1542.png",
-      "price": "1",
+      "price": "1 970",
       "reason": "jubilee",
       "link": "https://ekaterinburg.rus-buket.ru/buket/1542/vernisazh",
       "description": "Хризантема кустовая - 5, Альстромерии - 3, Статица, Фетр, Лента, Салал"
-    },
+    }
     
-    {
-      "uid": "3",
-      "category": "content",
-      "title": "Контент",
-      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1560.png",
-      "price": "2 540",
-      "reason": "jubilee",
-      "link": "https://ekaterinburg.rus-buket.ru/buket/1560/malakhitovaya-shkatulka",
-      "description": "Роза розовая 50см - 5, Хризантема одиночная - 5, Альстромерии - 4, Гвоздика, Лента, Фетр"
-    },
-    {
-      "uid": "4",
-      "category": "packaging",
-      "title": "Прочее",
-      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1556.png",
-      "price": "1",
-      "reason": "wedding",
-      "link": "https://ekaterinburg.rus-buket.ru/buket/1556/serdtse-okeana",
-      "description": "Лилии - 3, Ирисы - 14, Рускус, Фетр, Лента"
-    },
   ]
 }
