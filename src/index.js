@@ -167,15 +167,15 @@ bot.on('callback_query', msg => {
           switch (msg.data) {
             case 'b_all':
               showItem = 'ads'
-              itemText = 'букеты'
+              itemText = 'реклама'
               break
             case 'c_all':
               showItem = 'packaging'
-              itemText = 'композиции'
+              itemText = 'упаковка'
               break
             case 'g_all':
               showItem = 'content'
-              itemText = 'подарки'
+              itemText = 'контент'
               break
           }
 
