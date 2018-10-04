@@ -1,25 +1,35 @@
 {
   "flowers" : [
     {
-      "uid": "1685",
-      "category": "content",
-      "title": "Букет для мамы",
+      "uid": "686",
+      "category": "ads",
+      "title": "Букет дйк",
       "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1685.png",
-      "price": "2 240",
+      "price": "1",
       "reason": "love",
       "link": "https://ekaterinburg.rus-buket.ru/buket/1685/buket-dlya-mamy",
       "description": "Роза красная 50см - 7, Роза кустовая 50см - 7, Фисташка, Фетр, Лента"
     },
-    {
-      "uid": "1542",
-      "category": "ads",
-      "title": "Букет \"Вернисаж\"",
-      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1542.png",
-      "price": "1 970",
-      "reason": "jubilee",
-      "link": "https://ekaterinburg.rus-buket.ru/buket/1542/vernisazh",
-      "description": "Хризантема кустовая - 5, Альстромерии - 3, Статица, Фетр, Лента, Салал"
+       {
+      "uid": "685",
+      "category": "content",
+      "title": "Букей",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1685.png",
+      "price": "1",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1685/buket-dlya-mamy",
+      "description": "Роза красная 50см - 7, Роза кустовая 50см - 7, Фисташка, Фетр, Лента"
+    },
+       {
+      "uid": "666",
+      "category": "content",
+      "title": "Букет дцк",
+      "image": "https://ekaterinburg.rus-buket.ru/files/icons/icon-1685.png",
+      "price": "1",
+      "reason": "love",
+      "link": "https://ekaterinburg.rus-buket.ru/buket/1685/buket-dlya-mamy",
+      "description": "Роза красная 50см - 7, Роза кустовая 50см - 7, Фисташка, Фетр, Лента"
     }
-    
+  
   ]
 }
