@@ -1,4 +1,4 @@
 module.exports = {
-  limit: 3,
+  limit: 5,
   rub: '₽'
 }
